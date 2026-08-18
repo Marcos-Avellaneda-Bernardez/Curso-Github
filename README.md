@@ -1,2 +1,2 @@
-# Course-University
-Projects dones for the university or courses
+# Container repository for other projects
+This repository es created to organize other with different topics
