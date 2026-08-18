@@ -1,2 +1,2 @@
 # Course-University
-Projects related for university or courses
+Projects dones for the university or courses
